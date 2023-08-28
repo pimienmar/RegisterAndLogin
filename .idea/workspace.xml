@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4bf0f1a-1ee5-4d41-a032-d387e60b24b8" name="Changes" comment="Renamed Folder, Add User Object Class">
+    <list default="true" id="c4bf0f1a-1ee5-4d41-a032-d387e60b24b8" name="Changes" comment="Added InMemoryDatabase and Methods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database/InMemoryDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/InMemoryDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/UserManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/UserManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693228541677</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added InMemoryDatabase and Methods">
+      <created>1693230897406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693230897406</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Renamed Folder, Add User Object Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed Folder, Add User Object Class" />
+    <MESSAGE value="Added InMemoryDatabase and Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added InMemoryDatabase and Methods" />
   </component>
 </project>
